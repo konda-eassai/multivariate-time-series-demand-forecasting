@@ -1,0 +1,16 @@
+# Data
+data/
+reports/data/
+
+# Models
+models/
+*.h5
+*.pkl
+*.npy
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
